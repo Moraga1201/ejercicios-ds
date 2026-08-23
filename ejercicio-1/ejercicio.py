@@ -49,5 +49,6 @@
 #    )
 
 #else:
-#    print("La escala ingresada no es valida")
+#    print("La escala ingresada no es valida"
+
 
