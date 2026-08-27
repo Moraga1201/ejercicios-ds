@@ -328,3 +328,8 @@ sketch
 # Historial local de editores
 .history/
 .lh/
+
+#base de datos
+*.db
+*.sqlite
+*.sqlite3
